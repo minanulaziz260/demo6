@@ -1,0 +1,93 @@
+
+      
+        @font-face { 
+          font-family: 'dream_avenue'; 
+          src: url('https://api.owlink.id/uploads/fonts/title/dream_avenue.ttf'); 
+        } 
+        .font-title, .hover-title:hover, .after-title:after, .before-title:before {
+          font-family: 'dream_avenue' !important; 
+        }
+        
+        @font-face { 
+          font-family: 'liana'; 
+          src: url('https://api.owlink.id/uploads/fonts/liana.ttf'); 
+        } 
+        .font-additional, .hover-additional:hover, .after-additional:after, .before-additional:before {
+          font-family: 'liana' !important; 
+        }
+        
+        @font-face { 
+          font-family: 'Cormorant Garamond'; 
+          src: url('https://fonts.googleapis.com/css?family=Cormorant+Garamond'); 
+        } 
+        .font-content,.hover-content:hover, .after-content:after, .before-content:before {
+          font-family: 'Cormorant Garamond' !important; 
+        }
+        .content-layout p, 
+        .also_invite,
+        #also_inviting li,
+        .content-layout p b, 
+        .content-layout a, 
+        .content-layout .form-control, 
+        .content-layout button, 
+        #welcome p,
+        #welcome p b,
+        #welcome button,
+        .modal-body p, 
+        .modal-body label, 
+        .modal-body p, 
+        .modal-body b { 
+          font-family: 'Cormorant Garamond' !important; 
+        }
+         
+      #bottom-bar .wrapper {
+        background-color: rgba(239,233,230,1) !important;
+      }
+      #quote, #live, #coupleProfile, #galleries, #weddingDetail, #story, #wishes, #footer, .premium #hours, .premium #minutes, .premium #seconds, .premium #days, .premium #rsvp, .btn-premium{
+        background-color: #efe9e6;
+      }
+      .content-layout p, #also_inviting li {
+        color: #5a574e;
+      }
+      .content-layout h4, .content-layout h3, .content-layout h1, .btn-premium {
+        color: #6d493f;
+      }
+      .content-layout .alert {
+        border-color: #6d493f;
+        background-color: rgba(109,73,63,0.1);
+        color: #6d493f;
+      }
+      .content-layout .btn.btn-outline-primary {
+        border-color: #6d493f;
+        color: #6d493f;
+      }
+      .content-layout .btn.btn-primary:not(.btn-calendar) {
+        background-color: rgba(109,73,63,1);
+        border-color: rgba(109,73,63,1);
+        color: rgba(239,233,230,1);
+      }
+      .content-layout .custom-file-label, .content-layout .form-control,.content-layout .form-control::placeholder {
+        color: rgba(90,87,78,0.5);
+      }
+      #wishes .text-container {
+        color: rgba(109,73,63,1);
+        background-color: rgba(239,233,230,1) !important;
+      }
+      .content-layout .music-control {
+        background-color: #6d493f;
+        color: #efe9e6;
+      }
+      #countdown ul li{
+        color: rgba(90,87,78,1)
+      }
+      #countdown ul li span{
+        color: rgba(109,73,63,1)
+      }
+      #bottom-bar .wrapper ul li a {
+        color: rgba(109,73,63,1) !important;
+      }
+      #bottom-bar .wrapper ul li a.active {
+        color: rgba(239,233,230,1) !important;
+        background-color: rgba(109,73,63,1) !important;
+      }
+      
