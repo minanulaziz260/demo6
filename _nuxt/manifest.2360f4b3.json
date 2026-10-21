@@ -1,0 +1,53 @@
+{
+  "name": "Our Wedding Link - Platform pernikahan digital",
+  "short_name": "Our Wedding Link",
+  "description": "Rencanakan, Mengundang dan Melaksanakan pernikahan dengan our wedding link. Solusi pernikahanmu jadi lebih modern, efisien dan terukur. ",
+  "icons": [
+    {
+      "src": "/_nuxt/icons/icon_64x64.d64535.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/_nuxt/icons/icon_120x120.d64535.png",
+      "sizes": "120x120",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/_nuxt/icons/icon_144x144.d64535.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/_nuxt/icons/icon_152x152.d64535.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/_nuxt/icons/icon_192x192.d64535.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/_nuxt/icons/icon_384x384.d64535.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/_nuxt/icons/icon_512x512.d64535.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "https://our-wedding.link/login",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}
